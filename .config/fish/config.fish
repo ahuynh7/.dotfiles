@@ -1,0 +1,1 @@
+/home/ahuynh/.config/fish/config.fish
