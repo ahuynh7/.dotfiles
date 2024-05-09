@@ -1,1 +1,5 @@
-/home/ahuynh/.vim/vimrc
+syntax on
+set number relativenumber
+set nu rnu
+set shiftwidth=4
+set tabstop=4
