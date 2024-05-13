@@ -8,19 +8,7 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.minimap.enabled": false,
     "git.autofetch": true,
-    "terminal.integrated.commandsToSkipShell": [
-        "language-julia.interrupt"
-    ],
-    "julia.symbolCacheDownload": true,
-    "julia.enableTelemetry": false,
-    "julia.enableCrashReporter": false,
-    "haskell.manageHLS": "GHCup",
-    "workbench.colorTheme": "Teal Night",
     "explorer.confirmDelete": false,
-    "[python]": {
-        "editor.formatOnType": true
-    },
-    "window.zoomLevel": -0.4,
     "editor.cursorStyle": "underline",
     "editor.lineNumbers": "relative"
 }
