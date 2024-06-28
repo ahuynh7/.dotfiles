@@ -1,0 +1,22 @@
+initial_screen = "library"
+use_nerdfont = true
+flip_status_indicators = true
+cover_max_scale = 1
+
+[theme]
+background = "#02020A"
+primary = "#E1E2EF"
+secondary = "#B497D6"
+title = "#E1E2EF"
+playing = "#B497D6"
+playing_selected = "#05204A"
+playing_bg = "#181818"
+highlight = "#05204A"
+highlight_bg = "#BFACAA"
+error = "#FFE4E4"
+error_bg = "#A50000"
+statusbar = "#000000"
+statusbar_progress = "#B497D6"
+statusbar_bg = "#B497D6"
+cmdline = "#CBFFDE"
+cmdline_bg = "#444444"
